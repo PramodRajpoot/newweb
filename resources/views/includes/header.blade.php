@@ -11,7 +11,6 @@
       href="{{asset('public/assets/images/icons/favicon.png')}}"
       type="image/x-icon"
     />
-
     <!-- Include fontawesome cdn -->
     <link
       rel="stylesheet"
@@ -30,7 +29,6 @@
 
     <!-- Include bootstrap CSS -->
     <link rel="stylesheet" href="{{asset('public/assets/css/bootstrap.min.css')}}"/>
-
     <!-- Include slick CSS -->
     <link rel="stylesheet" href="{{asset('public/assets/css/slick.css')}}"/>
 
