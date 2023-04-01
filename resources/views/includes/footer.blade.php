@@ -3,7 +3,7 @@
       <footer class="footer_section position-relative border_top">
         <div
           class="footer_section_wrap sec_top_space_50"
-          style="background-image: url(assets/images/footer/footer.png)"
+          style="background-image: url(public/assets/images/footer/footer.png)"
         >
           <div class="container">
             <div
@@ -52,7 +52,7 @@
             <div class="footer_inner_content sec_space_xs_70">
               <div class="footer_inner_content_wrap">
                 <div class="row">
-                  <div class="col-md-6 col-lg-3">
+                  <div class="col-md-6 col-lg-4">
                     <div class="footer_inner_choose_content">
                       <div class="footer_inner_choose_title">
                         <h4>
@@ -79,43 +79,43 @@
                       </div>
                     </div>
                   </div>
-                  <div class="col-md-6 col-lg-3">
-                    <div class="footer_inner_info_content">
-                      <div class="footer_inner_info_title">
-                        <h4>
-                          <a href="#!" class="text-white">Information</a>
-                        </h4>
+                  <div class="col-md-6 col-lg-4">
+                    <div class="d-flex flex-wrap">
+                      <div class="footer_inner_info_content" style="width:50%;">
+                        <div class="footer_inner_info_title">
+                          <h4>
+                            <a href="#!" class="text-white">Information</a>
+                          </h4>
+                        </div>
+                        <div class="footer_inner_info_item pt-2">
+                          <ul class="list-unstyled">
+                            <li><a href="aboutUs.html">About Us</a></li>
+                            <li><a href="#!">Delivery Information</a></li>
+                            <li><a href="#!">Privacy Policy</a></li>
+                            <li><a href="#!">Terms & Conditions</a></li>
+                            <li><a href="#!">Return Policy</a></li>
+                          </ul>
+                        </div>
                       </div>
-                      <div class="footer_inner_info_item pt-2">
-                        <ul class="list-unstyled">
-                          <li><a href="aboutUs.html">About Us</a></li>
-                          <li><a href="#!">Delivery Information</a></li>
-                          <li><a href="#!">Privacy Policy</a></li>
-                          <li><a href="#!">Terms & Conditions</a></li>
-                          <li><a href="#!">Return Policy</a></li>
-                        </ul>
-                      </div>
+                      <div class="footer_inner_acct_content" style="width:50%;">
+                        <div class="footer_inner_acct_title">
+                          <h4>
+                            <a href="#!" class="text-white">My Account</a>
+                          </h4>
+                        </div>
+                        <div class="footer_inner_acct_item pt-2">
+                          <ul class="list-unstyled">
+                            <li><a href="#!">My Account</a></li>
+                            <li><a href="#!">Shopping Cart</a></li>
+                            <li><a href="#!">Wishlist</a></li>
+                            <li><a href="#!">Order History</a></li>
+                            <li><a href="#!">International Orders</a></li>
+                          </ul>
+                        </div>
+                    </div>
                     </div>
                   </div>
-                  <div class="col-md-6 col-lg-3">
-                    <div class="footer_inner_acct_content">
-                      <div class="footer_inner_acct_title">
-                        <h4>
-                          <a href="#!" class="text-white">My Account</a>
-                        </h4>
-                      </div>
-                      <div class="footer_inner_acct_item pt-2">
-                        <ul class="list-unstyled">
-                          <li><a href="#!">My Account</a></li>
-                          <li><a href="#!">Shopping Cart</a></li>
-                          <li><a href="#!">Wishlist</a></li>
-                          <li><a href="#!">Order History</a></li>
-                          <li><a href="#!">International Orders</a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-6 col-lg-3">
+                  <div class="col-md-6 col-lg-4">
                     <div class="footer_inner_cotc_content">
                       <div class="footer_inner_ctc_title">
                         <h4>
