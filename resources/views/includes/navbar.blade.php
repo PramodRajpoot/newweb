@@ -185,7 +185,7 @@
                                     <a href="shop-list-sidebar.html">Shop Sidebar</a>
                                   </li>
                                   <li>
-                                    <a href="{{url('shop-list-slider')}}" target="_blank">Shop List</a>
+                                    <a href="{{url('shop-list-slider')}}">Shop List</a>
                                   </li>
                                   <li>
                                     <a href="#!">
@@ -198,7 +198,7 @@
                                     </a>
                                   </li>
                                   <li>
-                                    <a href="#!">
+                                    <a href="{{url('product-details')}}">
                                       <span class="item_title text-start">Product Details</span>
                                     </a>
                                   </li>

@@ -15,4 +15,7 @@ class IndexController extends Controller
     public function shoplistslider(){
         return view('shop-list-slider');
     }
+    public function productdetails(){
+        return view('product-details');
+    }
 }

@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [App\Http\Controllers\IndexController::class, 'index'])->name('home');
 Route::get('/about-us', [App\Http\Controllers\IndexController::class, 'aboutUs'])->name('about-us');
 Route::get('/shop-list-slider', [App\Http\Controllers\IndexController::class, 'shoplistslider'])->name('shop-list-slider');
+Route::get('/product-details', [App\Http\Controllers\IndexController::class, 'productdetails'])->name('product-details');
 
 
 Auth::routes();

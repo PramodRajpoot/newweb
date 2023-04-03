@@ -125,12 +125,12 @@
       <div
         class="breadcrumb_wrap sec_space_mid_small"
         style="
-          background-image: url(assets/images/breadcrumb/breadcrumb1.png);
+          background-image: url(public/assets/images/breadcrumb/breadcrumb1.png);
         "
       >
         <div class="breadcrumb_cont text-center">
           <div class="breadcrumb_title">
-            <h2 class="text-white">Shop List Sidebar</h2>
+            <h2 class="text-white">Shop List</h2>
           </div>
           <ul
             class="list-unstyled breadcrumb_item d-flex justify-content-center align-items-center text-white"
